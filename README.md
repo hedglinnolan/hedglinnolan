@@ -16,8 +16,6 @@
 
 I've spent my career moving between theory and application — quantum optics at MIT Lincoln Lab, offensive cyber operations at the 780th MI Brigade, and now teaching statistics at West Point. The thread connecting all of it: **taking methods that are theoretically sound but practically inaccessible, and building tools so other people can use them correctly.**
 
-Most researchers I work with know their domain cold but shouldn't have to debug sklearn pipelines at 2 AM. That's the problem I'm solving.
-
 ---
 
 ### 🧪 Current Focus
@@ -46,8 +44,8 @@ The app does the mechanical work. You provide the domain expertise no tool can f
 
 ### 📐 Research
 
-- **Vision Transformers on Satellite Imagery** — student-led paper comparing ViT/DeiT/DINO for conflict prediction. DINO wins (89.8% balanced accuracy). Targeting MDPI Remote Sensing.
-- **TDA-APT** — privacy fingerprinting via topological data analysis. Targeting PETS.
+- **Vision Transformers on Satellite Imagery** — student-led paper comparing ViT/DeiT/DINO for conflict prediction.
+- **TDA-APT** — privacy fingerprinting via topological data analysis. 
 - **Applied Statistics Education** — designing curriculum for West Point's Advanced Applied Stats course.
 
 ---
