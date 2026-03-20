@@ -1,49 +1,42 @@
-# Hey, I'm Nolan 👋
+<div align="center">
 
-**Mathematician turned cyber operator turned ML builder.** I teach statistics at West Point and build tools that make rigorous research accessible to people who aren't ML engineers.
+# Nolan Hedglin
 
-I care about the gap between *knowing the math* and *applying it correctly*. Most of my work lives in that space — taking methods that are theoretically sound but practically inaccessible, and making them usable.
+**Mathematician · Cyber Operator · ML Builder**
+
+*I build things that make the math accessible without making it wrong.*
+
+[![Tabular ML Lab](https://img.shields.io/badge/🧪_Tabular_ML_Lab-Live_Demo-blue?style=for-the-badge)](https://app.tabularml.dev)
+
+</div>
 
 ---
 
-### 🔧 What I'm Building
+### What I'm About
+
+I've spent my career moving between theory and application — quantum optics at MIT Lincoln Lab, offensive cyber operations at the 780th MI Brigade, and now teaching statistics at West Point. The thread connecting all of it: **taking methods that are theoretically sound but practically inaccessible, and building tools so other people can use them correctly.**
+
+Most researchers I work with know their domain cold but shouldn't have to debug sklearn pipelines at 2 AM. That's the problem I'm solving.
+
+---
+
+### 🧪 Current Focus
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-**[Tabular ML Lab](https://github.com/hedglinnolan/tabular-ml-lab)** — *Research workbench for tabular prediction*
+#### [Tabular ML Lab](https://github.com/hedglinnolan/tabular-ml-lab)
 
-Upload a CSV → guided 10-step workflow → compilable LaTeX manuscript.
+A research workbench that turns CSV uploads into publishable ML papers.
 
-Built for scientists who need to publish ML papers but don't want to fight sklearn. 18 models, per-model preprocessing pipelines, SHAP explainability, bootstrap CIs, sensitivity analysis, and a report generator that writes your methods section from your actual workflow decisions.
+Upload your data → 10-step guided workflow → compilable LaTeX manuscript with auto-generated methods, results, and discussion skeleton.
 
-Features adaptive EDA with PCA/UMAP/TDA topology views, an insight ledger that tracks observations across pages, and auto-generated Table 1 with stratified tests.
+**18 models** with per-model preprocessing · **SHAP explainability** with bootstrap CIs · **Sensitivity analysis** proving your results aren't fragile · **Adaptive EDA** with PCA, UMAP, and topological data analysis · **Report generator** that writes your methods section from your actual workflow decisions
 
-[Live demo →](https://app.tabularml.dev)
+The app does the mechanical work. You provide the domain expertise no tool can fake.
 
-</td>
-<td width="50%" valign="top">
-
-**[TDA Satellite Demo](https://github.com/hedglinnolan/tda-satellite-demo)** — *Topological data analysis for conflict prediction*
-
-Applying persistent homology to satellite imagery for riot/unrest prediction. Companion code to a student-led paper comparing ViT, DeiT, and DINO architectures — DINO wins at 89.8% balanced accuracy. Targeting MDPI Remote Sensing.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Vision Transformer](https://github.com/hedglinnolan/Vision-Transformer)** — *ViT for satellite imagery classification*
-
-Ground-up implementation of vision transformers applied to overhead imagery. Part of ongoing research into how attention mechanisms perform on geospatial data versus traditional CNNs.
-
-</td>
-<td width="50%" valign="top">
-
-**[GSW Homomorphic Encryption](https://github.com/hedglinnolan/GSW-Homomorphic-Encryption-Python)** — *Fully homomorphic encryption in Python* ⭐ 10
-
-MIT 6.857 group project implementing the GSW13 scheme. Compute on encrypted data without decrypting it. Still my most-starred repo, which says something about cryptography's appeal.
+**[→ Try the live demo](https://app.tabularml.dev)**
 
 </td>
 </tr>
@@ -51,37 +44,41 @@ MIT 6.857 group project implementing the GSW13 scheme. Compute on encrypted data
 
 ---
 
-### 📐 Research Interests
+### 📐 Research
 
-- **Applied ML** — prediction models for tabular data, reproducible pipelines, automated manuscript generation
-- **Topological Data Analysis** — persistent homology for feature engineering, privacy fingerprinting (TDA-APT, targeting PETS)
-- **Computer Vision** — vision transformers on satellite/geospatial imagery
-- **Cryptography** — homomorphic encryption, post-quantum schemes (MIT background)
-
----
-
-### 🎓 Background
-
-| | |
-|---|---|
-| **Now** | Mathematics Instructor, United States Military Academy at West Point |
-| **Previously** | Company Commander & Tech Director, 780th MI Brigade (Cyber) — deployed cyber operations, CNMF |
-| **Education** | MIT — MS Electrical Engineering + MS Technology & Policy (Quantum Optics, 4.8/5.0) |
-| | West Point — BS Physics + BS Math (4.04/4.33) |
-
-**Teaching:** Mathematical modeling, introductory statistics, advanced applied statistics. Course Director for Advanced Applied Stats — designing curriculum for PhD instructors and hundreds of students.
+- **Vision Transformers on Satellite Imagery** — student-led paper comparing ViT/DeiT/DINO for conflict prediction. DINO wins (89.8% balanced accuracy). Targeting MDPI Remote Sensing.
+- **TDA-APT** — privacy fingerprinting via topological data analysis. Targeting PETS.
+- **Applied Statistics Education** — designing curriculum for West Point's Advanced Applied Stats course.
 
 ---
 
-### 🛠️ Stack
+### 🗺️ Path Here
 
 ```
-Python (advanced)  •  PyTorch  •  scikit-learn  •  Streamlit  •  Docker
-TDA (giotto-tda, Ripser)  •  LaTeX  •  Linux  •  French (advanced)
+2025–now    Mathematics Instructor, West Point
+2021–2024   Company Commander & Tech Director, 780th MI Brigade (Cyber)
+              Deployed cyber planner · CNMF operations
+2018–2020   MIT — MS Electrical Engineering + MS Technology & Policy
+              Quantum Optical Communications, Lincoln Laboratory
+2014–2018   West Point — BS Physics + BS Mathematics
 ```
 
 ---
 
-<p align="center">
-<i>I build things that make the math accessible without making it wrong.</i>
-</p>
+### 🛠️ Tools I Reach For
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+<div align="center">
+
+*Building tools for researchers who'd rather think about their science than fight their software.*
+
+</div>
