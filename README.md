@@ -8,6 +8,8 @@
 
 [![Tabular ML Lab](https://img.shields.io/badge/🧪_Tabular_ML_Lab-Live_Demo-blue?style=for-the-badge)](https://app.tabularml.dev)
 
+[![Courses I Teach](https://img.shields.io/badge/🧪_Tabular_ML_Lab-Live_Demo-blue?style=for-the-badge)](https://math.tabularml.dev)
+
 </div>
 
 ---
