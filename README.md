@@ -36,7 +36,6 @@ Upload your data → 10-step guided workflow → compilable LaTeX manuscript wit
 
 The app does the mechanical work. You provide the domain expertise no tool can fake.
 
-**[→ Try the live demo](https://app.tabularml.dev)**
 
 </td>
 </tr>
